@@ -3,9 +3,15 @@
 
 @import "{{ site.theme }}";
 
-#header {
+header {
   background: none;
   background-color: #a67d3d;
+  
+  h1 {
+    font: none;
+    text-shadow: 0px 2px 0px #523e20;
+    font-size: 3em;
+  }
 }
 
 #banner {
