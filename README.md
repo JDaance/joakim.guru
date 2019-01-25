@@ -1,5 +1,3 @@
-## Joakim Tall
-
 Jag är
  - Konsult/coach inom systemutveckling
  - Anordnare av zenmeditation (se ordinarymind.se)
