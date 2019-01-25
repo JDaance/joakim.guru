@@ -6,9 +6,9 @@ Jag är
  - Någon att prata andlighet & personlig utveckling med
  - Utvecklare av ett annorlunda och grymt spel, se [skyturns.com](http://skyturns.com)
  
-Här finns mitt CV för systemutvecklingsrelaterade grejer: [CV](/cv.pdf)
+Här finns mitt CV för systemutvecklingsrelaterade grejer: [CV](//joakim.guru/cv.pdf)
 
 Välkommen att höra av er om precis vad som helst relaterat till ovanstående!
 joakim@skyturns.com / 070-49 49 249 / Umeå
 
-![Joakim](/joakim.jpg)
+![Joakim](//joakim.guru/joakim.jpg)
