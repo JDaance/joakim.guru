@@ -2,3 +2,15 @@
 ---
 
 @import "{{ site.theme }}";
+
+#header {
+  background: none;
+  background-color: #a67d3d;
+}
+
+#banner {
+  height: 38px;
+  background: #71da6a;
+  border: 1px solid #5eb558;
+  padding-top: 14px;
+}
